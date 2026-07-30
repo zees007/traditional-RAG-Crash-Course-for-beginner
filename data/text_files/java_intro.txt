@@ -1,0 +1,13 @@
+Java is a high-level, object-oriented, class-based programming language developed by James Gosling at Sun Microsystems and first released in 1995. Today, Java is owned and maintained by Oracle Corporation.
+
+Java is one of the most popular languages for building enterprise applications, web services, mobile apps, cloud-native systems, and large-scale distributed applications.
+
+Key Features
+Platform-independent ("Write Once, Run Anywhere")
+Object-Oriented Programming (OOP)
+Strongly and statically typed
+Automatic memory management (Garbage Collection)
+Robust exception handling
+Multithreading support
+Rich standard library
+    

@@ -1,0 +1,10 @@
+Python is a high-level, interpreted, general-purpose programming language created by Guido van Rossum and first released in 1991. It is known for its simple, readable syntax, making it one of the easiest languages to learn and one of the most widely used in software development.
+
+Why Python is popular
+Easy to read and write
+Large standard library
+Huge ecosystem of third-party packages
+Cross-platform (Windows, Linux, macOS)
+Excellent community support
+Suitable for beginners and professionals alike
+    
