@@ -21,8 +21,9 @@ If you've ever wondered *"How do chatbots answer questions about MY documents?"*
    - [Step 5 — LLM Integration](#step-5--llm-integration-generating-the-answer)
 7. [Full Working Code](#-full-working-code)
 8. [Key Concepts Glossary](#-key-concepts-glossary)
-9. [What's Next?](#-whats-next)
-10. [Support & Engagement](#%EF%B8%8F-support--engagement-%EF%B8%8F)
+9. [Multimodal RAG — Beginner Crash Course](#%EF%B8%8F-multimodal-rag--beginner-crash-course)
+10. [What's Next?](#-whats-next)
+11. [Support & Engagement](#%EF%B8%8F-support--engagement-%EF%B8%8F)
 
 ---
 
@@ -448,6 +449,21 @@ if __name__ == "__main__":
 | **LangChain** | A Python framework that makes it easy to build LLM-powered applications |
 | **ChromaDB** | An open-source vector database that runs locally on your machine |
 | **Groq** | A cloud API that runs open-source LLMs (like Llama 3) at extremely high speed |
+
+---
+
+## 🖼️ Multimodal RAG — Beginner Crash Course
+
+> **Build a Retrieval-Augmented Generation pipeline that understands both text _and_ images from PDF documents.**
+
+This project walks you through building a **Multimodal RAG (Retrieval-Augmented Generation)** application from scratch. By the end, you'll have a working pipeline that can:
+
+- 📄 Extract **text** and **images** from any PDF
+- 🧠 Embed both modalities into a **shared vector space** using OpenAI's CLIP model
+- 🔍 Retrieve the most relevant text chunks _and_ images for any natural-language query
+- 💬 Generate accurate answers using a **vision-capable LLM** (Groq-hosted Qwen)
+
+👉 **[Check out the Multimodal RAG Crash Course on GitHub](https://github.com/zees007/multimodal-rag-crash-course)**
 
 ---
 
